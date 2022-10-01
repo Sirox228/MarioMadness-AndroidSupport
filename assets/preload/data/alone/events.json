@@ -1,0 +1,209 @@
+{
+	"song": {
+		"speed": 2.4,
+		"stage": "betamansion",
+		"player1": "bfbeta",
+		"player2": "beta",
+		"player3": null,
+		"events": [
+			[
+				3750,
+				[
+					[
+						"Lightning",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				33750,
+				[
+					[
+						"Lightning",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				48750,
+				[
+					[
+						"Set Cam Zoom",
+						".9",
+						""
+					]
+				]
+			],
+			[
+				56250,
+				[
+					[
+						"Set Cam Zoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				63750,
+				[
+					[
+						"Lightning",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				63754.8828125,
+				[
+					[
+						"Set Cam Zoom",
+						".8",
+						""
+					]
+				]
+			],
+			[
+				78750,
+				[
+					[
+						"Set Cam Zoom",
+						".85",
+						""
+					]
+				]
+			],
+			[
+				78984.375,
+				[
+					[
+						"Set Cam Zoom",
+						".9",
+						""
+					]
+				]
+			],
+			[
+				79218.75,
+				[
+					[
+						"Set Cam Zoom",
+						".95",
+						""
+					]
+				]
+			],
+			[
+				79453.125,
+				[
+					[
+						"Set Cam Zoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				79687.5,
+				[
+					[
+						"Set Cam Zoom",
+						"1.05",
+						""
+					]
+				]
+			],
+			[
+				79921.875,
+				[
+					[
+						"Set Cam Zoom",
+						"1.1",
+						""
+					]
+				]
+			],
+			[
+				80156.25,
+				[
+					[
+						"Set Cam Zoom",
+						"1.15",
+						""
+					]
+				]
+			],
+			[
+				80390.625,
+				[
+					[
+						"Set Cam Zoom",
+						"1.2",
+						""
+					]
+				]
+			],
+			[
+				82500,
+				[
+					[
+						"Lightning",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				82504.8828125,
+				[
+					[
+						"Set Cam Zoom",
+						".8",
+						""
+					]
+				]
+			],
+			[
+				105000,
+				[
+					[
+						"Lightning",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				112500,
+				[
+					[
+						"Lightning",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				138750,
+				[
+					[
+						"Lightning",
+						"1",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gfbeta",
+		"bpm": 128,
+		"arrowSkin": "Mario_NOTE_assets",
+		"needsVoices": true,
+		"song": "Alone"
+	}
+}
