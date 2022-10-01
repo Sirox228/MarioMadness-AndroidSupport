@@ -1,0 +1,40 @@
+{
+	"storyName": "Mario Madness",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "MarioMadness",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		111,
+		0,
+		0
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"It's a Me",
+			"marioex",
+			[
+				111,
+				0,
+				0
+			]
+		],
+		[
+			"Golden Land",
+			"mario-land",
+			[
+				60,
+				60,
+				60
+			]
+		]
+	],
+	"weekName": "MarioMadness"
+}

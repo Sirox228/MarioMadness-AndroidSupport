@@ -1,0 +1,67 @@
+{
+	"storyName": "Mario Madness Xtra",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		111,
+		0,
+		0
+	],
+	"weekBefore": "MarioMadness",
+	"startUnlocked": true,
+	"songs": [
+		[
+			"I Hate You",
+			"luigiH",
+			[
+				0,
+				160,
+				0
+			]
+		],
+		[
+			"Alone",
+			"beta",
+			[
+				0,
+				60,
+				0
+			]
+		],
+		[
+			"Apparition",
+			"wario",
+			[
+				100,
+				100,
+				0
+			]
+		],
+		[
+			"Powerdown",
+			"MXmadness",
+			[
+				40,
+				0,
+				0
+			]
+		],
+		[
+			"RaceTraitors",
+			"race",
+			[
+				231,
+				0,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hideStoryMode": true,
+	"weekName": ""
+}
